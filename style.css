@@ -27,7 +27,7 @@ h1 {
     text-align:center;
 }
 
-.about-me {
+.idk {
     text-align:justify;
     hyphens: auto;
 }
@@ -64,4 +64,33 @@ p {
     border-radius: 6px;
     font-size: 0.95rem;
     font-weight: 500;
+}
+
+.about-me {
+    border-bottom: 2px solid #eaeedf;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+.grade-level{
+    color: #3498db;
+    font-size: 0.95rem;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin: 0 0 5px 0;
+}
+
+.degree {
+    color: #2c3e50;
+    font-size: 1.1rem;
+    font-weight: 600;
+    margin: 0 0 15px 0;
+}
+
+.goal {
+    color: #555555;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.6;
+    margin: 0;
 }
